@@ -2,7 +2,9 @@
 
 ## Praktikum Komputasi Numerik E
 Kelompok 4:
+
 -Dian Lies Seviona Dabukke (5025211080)
+
 -Shafa Nabilah Hanin (5025211222)
 ## Metode Romberg
 
