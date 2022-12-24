@@ -20,3 +20,4 @@ yang sudah didapat
 4. Tentukan nilai Ck yang juga merupakan nilai perkiraan integrasi dengan orde galat O(h^6) serta menggunakan nilai Bk 
 yang sudah didapat
 5. Lakukan langkah tersebut hingga nilai k dan mencapai nilai hasil integrasi terbaik
+![image](https://user-images.githubusercontent.com/90541607/209414858-50ab00e0-da13-416c-950b-49f8732381fb.png)
