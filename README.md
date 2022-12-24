@@ -1,10 +1,9 @@
 # P2_Komnum_E4
-Metode Romberg
+
+# Praktikum Komputasi Numerik E
 Kelompok 4:
 -Dian Lies Seviona Dabukke (5025211080)
 -Shafa Nabilah Hanin (5025211222)
-
-# Praktikum Komputasi Numerik E
 ## Metode Romberg
 
 Metode Romberg merupakan metode integrasi yang didasarkan pada ekstrapolasi Richardson
